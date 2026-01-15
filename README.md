@@ -3,8 +3,7 @@
 This project presents an **interactive Power BI dashboard** designed to analyze Uber trip data and extract actionable business insights related to **demand patterns, pricing trends, user behavior, and operational performance**.
 
 ### Dashboard Preview
-![Uber Analytics Dashboard](images/DASHBORD.PNG)
-
+![Uber Analytics Dashboard](DASHBORD.PNG)
 ### 🔍 Key Insights
 - Total Trips: ~116.9K
 - Total Fare: ~$1.8M
